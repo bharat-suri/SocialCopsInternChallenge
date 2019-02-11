@@ -1,0 +1,5 @@
+.DS_Store
+venv
+env
+.ipynb_checkpoints/
+.ipynb_checkpoints
